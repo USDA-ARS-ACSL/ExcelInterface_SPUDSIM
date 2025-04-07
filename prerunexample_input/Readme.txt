@@ -1,0 +1,1 @@
+Subfolder contains input data created as a result of the excel macro.  Note each row in the template.xls file would be associated with a separate subfolder.  In this example, only one row was provided.

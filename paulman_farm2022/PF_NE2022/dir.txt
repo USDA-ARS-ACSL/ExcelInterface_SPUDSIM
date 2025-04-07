@@ -1,0 +1,33 @@
+ Volume in drive C is main
+ Volume Serial Number is 441D-1145
+
+ Directory of C:\Users\David.Fleisher\USDA\ARS-NEA-ACSL-MODELING - Documents\Excel interface\SPUDSIM\Potato_Sept2024version\paulman_farm2022\PF_NE2022
+
+01/22/2025  09:54 AM    <DIR>          .
+01/16/2025  03:42 PM    <DIR>          ..
+01/22/2025  09:53 AM               362 BiologyDefault.bio
+01/22/2025  09:54 AM                 0 createError.log
+01/22/2025  09:54 AM                28 dir.txt
+01/22/2025  09:53 AM               353 GasID.gas.gas
+01/22/2025  09:53 AM               376 grid1.bat
+01/22/2025  09:53 AM             1,498 MulchGeo1.mul
+01/22/2025  09:53 AM               504 NitrogenDefault.sol
+01/22/2025  09:53 AM               640 PF_NE2022.cli
+01/22/2025  09:54 AM               252 PF_NE2022.dat
+01/22/2025  09:53 AM               161 PF_NE2022.drp
+01/22/2025  09:54 AM            15,261 PF_NE2022.grd
+01/22/2025  09:53 AM               970 PF_NE2022.ini
+01/22/2025  09:53 AM               393 PF_NE2022.irr
+01/22/2025  09:53 AM             2,333 PF_NE2022.lyr
+01/22/2025  09:53 AM             1,052 PF_NE2022.man
+01/22/2025  09:53 AM               834 PF_NE2022.nit
+01/22/2025  09:54 AM            32,315 PF_NE2022.nod
+01/17/2025  03:51 PM               626 PF_NE2022.soi
+01/22/2025  09:53 AM               466 PF_NE2022.tim
+01/22/2025  09:53 AM           332,409 PF_NE2022h.wea
+01/22/2025  09:53 AM             2,665 ranger russet.var
+01/17/2025  03:51 PM               519 Rosetta.log
+01/22/2025  09:53 AM             4,420 runPF_NE2022.dat
+01/22/2025  09:53 AM               290 WaterMovDefault.dat
+              24 File(s)        398,727 bytes
+               2 Dir(s)  3,357,828,227,072 bytes free

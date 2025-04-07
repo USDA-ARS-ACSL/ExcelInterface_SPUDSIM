@@ -1,0 +1,33 @@
+ Volume in drive E is Models_and_Backup
+ Volume Serial Number is 4C3B-E366
+
+ Directory of E:\spudsim v2-2\excel_interface\example_input\PF_NE2022
+
+04/07/2025  03:13 PM    <DIR>          .
+04/07/2025  03:12 PM    <DIR>          ..
+04/07/2025  03:12 PM               362 BiologyDefault.bio
+04/07/2025  03:13 PM                 0 createError.log
+04/07/2025  03:13 PM                 0 dir.txt
+04/07/2025  03:12 PM               353 GasID.gas.gas
+04/07/2025  03:12 PM               248 grid1.bat
+04/07/2025  03:12 PM             1,498 MulchGeo1.mul
+04/07/2025  03:12 PM               504 NitrogenDefault.sol
+04/07/2025  03:12 PM               640 PF_NE2022.cli
+04/07/2025  03:13 PM               252 PF_NE2022.dat
+04/07/2025  03:12 PM               161 PF_NE2022.drp
+04/07/2025  03:13 PM            15,261 PF_NE2022.grd
+04/07/2025  03:12 PM               970 PF_NE2022.ini
+04/07/2025  03:12 PM               393 PF_NE2022.irr
+04/07/2025  03:12 PM             2,333 PF_NE2022.lyr
+04/07/2025  03:12 PM             1,052 PF_NE2022.man
+04/07/2025  03:12 PM               834 PF_NE2022.nit
+04/07/2025  03:13 PM            32,315 PF_NE2022.nod
+04/07/2025  03:13 PM                 0 PF_NE2022.soi
+04/07/2025  03:12 PM               466 PF_NE2022.tim
+04/07/2025  03:12 PM           332,409 PF_NE2022h.wea
+04/07/2025  03:12 PM             2,665 ranger russet.var
+04/07/2025  03:13 PM                 0 Rosetta.log
+04/07/2025  03:12 PM             2,071 runPF_NE2022.dat
+04/07/2025  03:12 PM               290 WaterMovDefault.dat
+              24 File(s)        395,077 bytes
+               2 Dir(s)  9,103,933,108,224 bytes free
